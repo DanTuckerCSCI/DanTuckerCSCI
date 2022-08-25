@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am Dan Tucker and I am currently working on server side programming at ETSU.
+
+📫tuckerd1@etsu.edu
+
 <!--
 **DanTuckerCSCI/DanTuckerCSCI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
